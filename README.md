@@ -1,6 +1,6 @@
 # API de Cadastro de usuários
 
-## 🧾 Descrição
+## Descrição
 
 Este projeto é uma API simples para cadastro de usuários contendo os campos:
 
@@ -21,7 +21,7 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 ![Sem título-1](https://github.com/user-attachments/assets/2fddddc2-99fb-4ebc-bcca-c8ac29095806)
 ---
 ### GET /alunos/id
-![Sem título-1](https://github.com/user-attachments/assets/4a7ae54d-83e3-460f-b88e-c77782520b9d)
+<img width="1847" height="571" alt="image" src="https://github.com/user-attachments/assets/cc002b33-3b75-42b1-ad07-58427df82723" />
 ---
 ## Banco de dados
 ---
