@@ -31,11 +31,42 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 
 ---
 
-## Banco de dados
+### PUT /alunos/id
+<img width="1858" height="571" alt="image" src="https://github.com/user-attachments/assets/8de5ebd4-c30b-411e-93ef-695b053d413e" />
 
 ---
 
+### POST /professor
+<img width="1856" height="529" alt="image" src="https://github.com/user-attachments/assets/fe2b0d1f-d4a7-46fe-a38d-45eb92eddbf6" />
+
+---
+
+
+### GET /professor
+<img width="1855" height="571" alt="image" src="https://github.com/user-attachments/assets/4a2c7f86-01de-4314-bb01-43da4da07d68" />
+
+---
+
+
+### GET /professor/id
+
+<img width="1857" height="580" alt="image" src="https://github.com/user-attachments/assets/d1af04e9-dbd8-43ae-be7c-a2f9c84e9fbe" />
+
+---
+
+
+### PUT /professor/id
+<img width="1856" height="585" alt="image" src="https://github.com/user-attachments/assets/82e77567-2424-4aa5-9b99-c758e847311a" />
+
+---
+
+## Banco de dados
+
+### ALUNOS
 <img width="1503" height="404" alt="image" src="https://github.com/user-attachments/assets/f69beb1a-52c5-4833-ac91-e324d1ab6c78" />
+
+### PROFESSORES
+<img width="1920" height="459" alt="image" src="https://github.com/user-attachments/assets/6463cb5a-4f04-4745-8365-b7864605ed07" />
 
 ---
 
