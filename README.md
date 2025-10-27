@@ -31,6 +31,11 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 
 ---
 
+### PUT /alunos/id
+<img width="1858" height="571" alt="image" src="https://github.com/user-attachments/assets/8de5ebd4-c30b-411e-93ef-695b053d413e" />
+
+---
+
 ## Banco de dados
 
 ---
