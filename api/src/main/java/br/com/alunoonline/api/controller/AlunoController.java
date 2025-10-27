@@ -21,6 +21,7 @@ public class AlunoController {
     public void criarAluno(@RequestBody Aluno aluno){
         alunoService.criarAluno(aluno);
     }
+
     @GetMapping
     @ResponseStatus(HttpStatus.OK)
     public List<Aluno> buscarTodosAlunos(){
@@ -33,4 +34,17 @@ public class AlunoController {
         return alunoService.buscarAlunoPeloID(id);
     }
 
+    // Novo módulo: Atualizar aluno
+    @PutMapping("/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void atualizarAluno(@PathVariable Long id, @RequestBody Aluno alunoAtualizado) {
+        alunoService.atualizarAluno(id, alunoAtualizado);
+    }
+
+    // Novo módulo: Deletar aluno
+    @DeleteMapping("/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void deletarAluno(@PathVariable Long id) {
+        alunoService.deletarAluno(id);
+    }
 }

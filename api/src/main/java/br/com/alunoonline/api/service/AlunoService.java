@@ -15,15 +15,28 @@ public class AlunoService {
 
     public void criarAluno(Aluno aluno){
         alunoRepository.save(aluno);
-
     }
+
     public List<Aluno> buscarTodosAlunos(){
         return alunoRepository.findAll();
-
     }
+
     public Optional<Aluno> buscarAlunoPeloID(Long id){
         return alunoRepository.findById(id);
-
     }
 
+    public void atualizarAluno(Long id, Aluno alunoAtualizado) {
+        Optional<Aluno> alunoExistente = alunoRepository.findById(id);
+        if (alunoExistente.isPresent()) {
+            Aluno aluno = alunoExistente.get();
+            aluno.setNomeCompleto(alunoAtualizado.getNomeCompleto());
+            aluno.setEmail(alunoAtualizado.getEmail());
+            aluno.setCpf(alunoAtualizado.getCpf());
+            alunoRepository.save(aluno);
+        }
+    }
+
+    public void deletarAluno(Long id) {
+        alunoRepository.deleteById(id);
+    }
 }
