@@ -36,6 +36,12 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 
 ---
 
+
+### DELETE /aluno/id
+<img width="1854" height="669" alt="image" src="https://github.com/user-attachments/assets/f0a66c47-4d36-470f-af92-ff764c14860f" />
+
+---
+
 ### POST /professor
 <img width="1856" height="529" alt="image" src="https://github.com/user-attachments/assets/fe2b0d1f-d4a7-46fe-a38d-45eb92eddbf6" />
 
@@ -57,6 +63,12 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 
 ### PUT /professor/id
 <img width="1856" height="585" alt="image" src="https://github.com/user-attachments/assets/82e77567-2424-4aa5-9b99-c758e847311a" />
+
+---
+
+
+### DELETE /professor/id
+<img width="1849" height="616" alt="image" src="https://github.com/user-attachments/assets/a114b599-1380-4268-84ca-ff36694273f6" />
 
 ---
 
