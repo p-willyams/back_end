@@ -43,26 +43,27 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 ---
 
 ### POST /professor
-<img width="1856" height="529" alt="image" src="https://github.com/user-attachments/assets/fe2b0d1f-d4a7-46fe-a38d-45eb92eddbf6" />
+<img width="1857" height="509" alt="image" src="https://github.com/user-attachments/assets/9d7777d0-b445-4692-a644-2484e33093f0" />
+
 
 ---
 
 
 ### GET /professor
-<img width="1855" height="571" alt="image" src="https://github.com/user-attachments/assets/4a2c7f86-01de-4314-bb01-43da4da07d68" />
+<img width="1857" height="585" alt="image" src="https://github.com/user-attachments/assets/acd34ecf-1e0f-459c-a0b0-43d5f7b75488" />
 
 ---
 
 
 ### GET /professor/id
 
-<img width="1857" height="580" alt="image" src="https://github.com/user-attachments/assets/d1af04e9-dbd8-43ae-be7c-a2f9c84e9fbe" />
+<img width="1855" height="669" alt="image" src="https://github.com/user-attachments/assets/1508ddbe-4ba6-41d5-bbe8-eda943249a72" />
 
 ---
 
 
 ### PUT /professor/id
-<img width="1856" height="585" alt="image" src="https://github.com/user-attachments/assets/82e77567-2424-4aa5-9b99-c758e847311a" />
+<img width="1858" height="700" alt="image" src="https://github.com/user-attachments/assets/57089b3a-1ac0-4714-9154-0e0bea88e7df" />
 
 ---
 
@@ -72,6 +73,37 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 
 ---
 
+### POST /disciplinas
+<img width="1861" height="756" alt="image" src="https://github.com/user-attachments/assets/fa1dddbc-07c5-4845-a227-dc7de1412403" />
+
+---
+
+### GET /disciplinas
+<img width="1858" height="768" alt="image" src="https://github.com/user-attachments/assets/a1a9ccc2-a1cd-43ec-bc82-82eed920ac46" />
+
+---
+
+### GET /disciplinas/1
+
+<img width="1859" height="700" alt="image" src="https://github.com/user-attachments/assets/808301bb-c937-417f-abd4-e2b1f5ac5743" />
+
+
+---
+
+### PUT /disciplinas/1
+<img width="1854" height="635" alt="image" src="https://github.com/user-attachments/assets/fd3f3b46-de36-44a7-9f33-9d45c2b7e9ab" />
+
+
+---
+
+### DELETE /disciplinas/1
+
+<img width="1860" height="643" alt="image" src="https://github.com/user-attachments/assets/4f5939fd-8b5d-4e0b-be79-7eb765035532" />
+
+
+---
+
+
 ## Banco de dados
 
 ### ALUNOS
@@ -80,7 +112,12 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 ### PROFESSORES
 <img width="1920" height="459" alt="image" src="https://github.com/user-attachments/assets/6463cb5a-4f04-4745-8365-b7864605ed07" />
 
+### DISCIPLINAS
+<img width="1920" height="464" alt="image" src="https://github.com/user-attachments/assets/e6164a19-5e16-44c3-a7c8-7907790d4e34" />
+
 ---
+
+
 
 
 
