@@ -108,11 +108,26 @@ Os dados são armazenados em um banco de dados relacional e as requisições pod
 
 ---
 
-### DELETE /disciplinas/1
+### DELETE /disciplinas/id
 
 ![Sem título](https://github.com/user-attachments/assets/1f3d4915-b4d9-46e0-b2f4-77ff76355e95)
 
 
+
+---
+
+### POST /matriculas
+![Sem título](https://github.com/user-attachments/assets/9bd8cd28-3f0e-45f2-ad0a-4d97318fd4f2)
+
+---
+
+### PATCH /matriculas/trancar/id
+![Sem título](https://github.com/user-attachments/assets/3c914d31-9d0d-46a8-9b04-a75c0630800e)
+
+---
+
+### PATCH /matriculas/atualizar-notas/id
+<img width="1600" height="588" alt="image" src="https://github.com/user-attachments/assets/bd6b69ac-4526-40b5-b4e9-fe201514b76d" />
 
 ---
 
