@@ -20,11 +20,7 @@ Projeto criado para estudos de backend com Java + Spring Boot.
 
 ### Alunos
 
-* Criar aluno
-* Listar todos
-* Buscar por ID
-* Atualizar
-* Deletar
+* CRUD completo de alunos
 
 ### Professores
 
